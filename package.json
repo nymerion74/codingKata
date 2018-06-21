@@ -1,0 +1,22 @@
+{
+  "name": "codingkata",
+  "version": "1.0.0",
+  "description": "app to convert arabic or numeric number",
+  "main": "codingKata-Robin.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nymerion74/codingKata.git"
+  },
+  "author": "nymerion74",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nymerion74/codingKata/issues"
+  },
+  "homepage": "https://github.com/nymerion74/codingKata#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
